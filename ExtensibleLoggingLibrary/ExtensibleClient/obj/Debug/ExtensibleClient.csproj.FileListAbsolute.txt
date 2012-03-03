@@ -1,0 +1,7 @@
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\bin\Debug\ExtensibleClient.exe
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\bin\Debug\ExtensibleClient.pdb
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\bin\Debug\ExtensibleLoggingLibrary.dll
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\bin\Debug\ExtensibleLoggingLibrary.pdb
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\obj\Debug\ResolveAssemblyReference.cache
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\obj\Debug\ExtensibleClient.exe
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleClient\obj\Debug\ExtensibleClient.pdb

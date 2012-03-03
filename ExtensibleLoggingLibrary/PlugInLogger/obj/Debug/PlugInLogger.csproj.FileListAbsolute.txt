@@ -1,0 +1,7 @@
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\obj\Debug\ResolveAssemblyReference.cache
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\bin\Debug\PlugInLogger.dll
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\bin\Debug\PlugInLogger.pdb
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\bin\Debug\ExtensibleLoggingLibrary.dll
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\bin\Debug\ExtensibleLoggingLibrary.pdb
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\obj\Debug\PlugInLogger.dll
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\PlugInLogger\obj\Debug\PlugInLogger.pdb

@@ -1,0 +1,6 @@
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleLoggingLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleLoggingLibrary\bin\Debug\ExtensibleLoggingLibrary.dll.config
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleLoggingLibrary\bin\Debug\ExtensibleLoggingLibrary.dll
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleLoggingLibrary\bin\Debug\ExtensibleLoggingLibrary.pdb
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleLoggingLibrary\obj\Debug\ExtensibleLoggingLibrary.dll
+D:\KBU\Projects\Office\ExtensibleLoggingLibrary\ExtensibleLoggingLibrary\obj\Debug\ExtensibleLoggingLibrary.pdb
